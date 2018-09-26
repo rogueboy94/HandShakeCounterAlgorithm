@@ -25,17 +25,9 @@ namespace HandShakeCounterAlgorithm
         {
             int sumOfHandShakes = 0; // сумма рукопожатий
             
-            // проверяем количество людей на нечетность
-            if (people % 2 == 1)
-            {
-                for (int i = 1; i <= people; i++)
+            for (int i = 0; i < people; i++)
                     sumOfHandShakes += i;
-                sumOfHandShakes -= people;
-            }
-            // алгоритм выполнения для четных людей
-            else
-                sumOfHandShakes = people * (people / 2) - (people / 2);
-
+             
             return sumOfHandShakes;
         }
     }
