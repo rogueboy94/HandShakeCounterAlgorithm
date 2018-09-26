@@ -1,0 +1,5 @@
+c:\users\tomahawk\documents\visual studio 2017\Projects\HandShakeCounterAlgorithm\HandShakeCounterAlgorithm\bin\Debug\HandShakeCounterAlgorithm.exe.config
+c:\users\tomahawk\documents\visual studio 2017\Projects\HandShakeCounterAlgorithm\HandShakeCounterAlgorithm\bin\Debug\HandShakeCounterAlgorithm.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\HandShakeCounterAlgorithm\HandShakeCounterAlgorithm\bin\Debug\HandShakeCounterAlgorithm.pdb
+c:\users\tomahawk\documents\visual studio 2017\Projects\HandShakeCounterAlgorithm\HandShakeCounterAlgorithm\obj\Debug\HandShakeCounterAlgorithm.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\HandShakeCounterAlgorithm\HandShakeCounterAlgorithm\obj\Debug\HandShakeCounterAlgorithm.pdb
